@@ -4,6 +4,7 @@
   "description": "Chat App with rooms for different stack techs",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "devStart": "nodemon server.js"
   },
   "repository": {
